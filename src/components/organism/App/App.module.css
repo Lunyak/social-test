@@ -1,0 +1,23 @@
+.parent {
+  height: calc(100vh - 80px);
+  min-height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
+  max-width: 1024px;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: #ce916d3d;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0px 0px 2px 0px #000
+}
+
+.layout {
+  display: flex;
+  align-items: flex-start;
+  height: calc(100% - 100px);
+}

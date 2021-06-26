@@ -1,0 +1,47 @@
+.parent {
+    width: 100%;
+    padding: 0 40px;
+    height: 50px;
+    background-color: #304159;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 5px 15px 0 rgba(43, 61, 86, 0.4);
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    max-width: 100px;
+    color: black;
+    font-weight: 700;
+}
+
+.logo img {
+    margin-right: 10px;
+    width: 100%;
+}
+
+.loginWrap {
+    display: flex;
+    align-items: center;
+}
+
+.singIn {
+    margin-right: 10px;
+    padding: 4px 20px 4px;
+    border: 1px solid #B4BAC3;
+    background: #F5F6F7;
+    color: #041226;
+    font-size: 12px;
+    line-height: 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 700;
+}
+
+.singInImg {
+    margin-right: 5px;
+    max-width: 12px;
+}

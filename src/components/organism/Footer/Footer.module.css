@@ -1,0 +1,11 @@
+.parent {
+    width: 100%;
+    margin-top: auto;
+    padding: 0 40px;
+    height: 50px;
+    background-color: #304159;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 -5px 15px 0 rgba(43, 61, 86, 0.4);
+}

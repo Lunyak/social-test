@@ -1,0 +1,12 @@
+.parent {
+    padding: 20px;
+}
+
+.input {
+    padding: 5px;
+    outline: none;
+    color: #041226;
+    font-size: 14px;
+    background: #cdffb1;
+    border: none;
+}
